@@ -29,3 +29,6 @@ int main()
     struct dist dis=add(d1, d2);
     cout<<dis.feet<<" feet and "<<dis.inch<<" inch";
 }
+
+/* #Output:
+27 feet and 1 inch */
