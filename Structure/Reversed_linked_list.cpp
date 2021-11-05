@@ -34,7 +34,7 @@ int main() {
     
     head=(listnode *)malloc(sizeof(listnode)); // allocating the space to list elements
     first=(listnode *)malloc(sizeof(listnode));
-    second=new listnode();
+    second=new listnode();    // Can use new operate in c++
     
     head->val=7;                    // Linked list creation
     head->next=first;
