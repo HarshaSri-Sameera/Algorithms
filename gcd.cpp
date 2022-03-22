@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -35,9 +36,10 @@ int gcd(int a, int b)
 }
 
 int main() {
-    // cout<<__gcd(24, 12);
+    cout<<__gcd(24, 12);
     int a = 24, b = 12;
     
     cout<<gcd(min(a, b), max(a,b));
     return 0;
 }
+
