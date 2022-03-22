@@ -44,3 +44,8 @@ int main() {
     return 0;
 }
 
+// incase of not using min and max in the function
+// after checking zeros conditions use this if else case to check the min and max numbers
+   if (a > b)
+   return gcd(a-b, b);
+   else return gcd(a, b-a);
