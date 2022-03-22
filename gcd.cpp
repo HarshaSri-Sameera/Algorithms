@@ -36,7 +36,7 @@ int gcd(int a, int b)
 }
 
 int main() {
-    cout<<__gcd(24, 12);
+    cout<<__gcd(24, 12);                        // Inbuilt function in cpp
     int a = 24, b = 12;
     
     cout<<gcd(min(a, b), max(a,b));
