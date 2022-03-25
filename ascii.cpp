@@ -35,3 +35,9 @@ int main()
     cout<<"The alphabet series index of "<<x<<" is: "<<int(x - 96);                          
     return 0;
 }
+
+
+
+// In python:
+// ord() to get the ascii value (Input value is character example: 'a')
+// chr() to get the charater (Input value is ASCII value example: 97)
