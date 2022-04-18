@@ -49,6 +49,6 @@ int main()
 }
 
 
-// 7 3
+// 7 3   numbe rof elements and window size(itteration)
 // 1 3 2 3 5 9 0
 // output: 3 3 3 3
