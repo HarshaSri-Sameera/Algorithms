@@ -1,2 +1,2 @@
 # SDE
-These are the Algorithms and Datastructures I have learnt in my "Software Development Engineer" training.
+These are the Algorithms and DataStructures I have learnt in my "Software Development Engineer" (SDE) training.
